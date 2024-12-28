@@ -58,7 +58,7 @@ This is the capstone project for CS50's Web Programming with Python and Javascri
 
 ### Installation
 
-- Install Python3.9 from [here](https://www.python.org/downloads/) manually.
+- Install Python3.13 from [here](https://www.python.org/downloads/) manually.
 - Install project dependencies by running `py -m pip install -r requirements.txt`.
 - Run the commands `py manage.py makemigrations` and `py manage.py migrate` in the project directory to make and apply migrations.
 - Create superuser with `py manage.py createsuperuser`. This step is optional.
